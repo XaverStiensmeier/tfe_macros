@@ -1,0 +1,33 @@
+{
+  "id": "tfe_macros",
+  "title": "TFE_Macros",
+  "version": "0.0.1",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+  "description": "<p>Macro Compendium for the TTRPG system Tales From Elsewhere.</p><p>Skill test and injury dice are pretty self explanatory. Setup adds the two macros from the compendium to each user's hotkey bar.</p><p>Works great with Pdf Sheets.</p>",
+  "authors": [
+    {
+      "name": "Xaver Stiensmeier",
+      "url": "https://github.com/XaverStiensmeier/",
+      "flags": {}
+    }
+  ],
+  "flags": {
+    "canUpload": true
+  },
+  "packs": [
+    {
+      "name": "tales_from_elsewhere_macros",
+      "label": "TFE_Makros",
+      "path": "packs/tales_from_elsewhere_macros",
+      "type": "Macro",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ],
+  "url": "https://github.com/XaverStiensmeier/tfe_macros"
+}
